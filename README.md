@@ -57,3 +57,5 @@ Clone this repository to explore the Tableau workbook and dataset:
 
 ```bash
 git clone https://github.com/RK0297/Tableau-Financial-Dashboard
+
+https://public.tableau.com/app/profile/radhakrishna.bharuka/viz/DEMO_17513218631080/Dashboard1
